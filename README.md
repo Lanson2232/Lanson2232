@@ -1,7 +1,7 @@
 
-<p   align="center" style="border-radius:65%;"><img style="border-radius:65%;" src="https://bunyaminozturk.com.tr/i/I8EAq.png" width="250px" /></p>
+<p   align="center" style="border-radius:65%;"><img style="border-radius:65%;" src="https://bunyaminozturk.com.tr/i/E7a0s.png" width="250px" /></p>
 <hr>
-<h3 align="center" > Hi there  <img align="center" src="https://bunyaminozturk.com.tr/i/E7a0s.png" width="30"></h3>
+<h3 align="center" > Hi there</h3>
 
 <p style="border-left:2px solid #4d4c52; padding-left:7px; ">I'm Bünyamin , 16 years old student from Turkey. I'm mainly focused on Javascript and Web Development but I'm trying to learn more about the "future" technology. I also know the programming languages C#, Python, Php</br></p>
 
