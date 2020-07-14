@@ -1,5 +1,5 @@
 
-<p   align="center" style="border-radius:65%;"><img style="border-radius:65%;" src="https://bunyaminozturk.com.tr/i/E7a0s.png" width="250px" /></p>
+<p   align="center"><img src="https://bunyaminozturk.com.tr/i/E7a0s.png" width="150px" /></p>
 <hr>
 <h3 align="center" > Hi there</h3>
 
