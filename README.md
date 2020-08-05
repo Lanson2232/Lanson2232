@@ -19,3 +19,7 @@ I have started developing when I was 8-9 years old on my WindowsXP computer. The
 *  <div style="text-align:left; text-decoration:none; "><a href="https://www.youtube.com/channel/UCate1oe25dDYE0kj8j3Itlw"><img  src="https://bunyaminozturk.com.tr/i/kM6FR.png" height="auto"  width="20" style="text-decoration:none; "> <span style="font-size:18px; text-decoration:none; color:#36363F; ">Bünyamin Öztürk</span></a></div>
 
 <p>Owner of the Icons: <a href="https://www.flaticon.com/de/autoren/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/de/" title="Flaticon">www.flaticon.com</a></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lanson2232&count_private=true&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanson2232&layout=compact">
+</p>
