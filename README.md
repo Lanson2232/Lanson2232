@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center" > Hi there</h3>
 
-<p style="border-left:2px solid #4d4c52; padding-left:7px; ">I'm Bünyamin , 16 years old student from Turkey. I'm mainly focused on Javascript and Web Development but I'm trying to learn more about the "future" technology. I also know the programming languages C#, Python, Php</br></p>
+<p style="border-left:2px solid #4d4c52; padding-left:7px; ">I'm Bünyamin , student from Turkey. I'm mainly focused on Javascript and Web Development but I'm trying to learn more about the "future" technology. I also know the programming languages C#, Python, Php</br></p>
 
 #### Some Shit About Me:    
 
